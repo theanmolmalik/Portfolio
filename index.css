@@ -90,32 +90,32 @@ ul{
 .s1,.s5{
     background-color: #72cfd9;
     border-radius: 25px;
-    padding-left: 8px;
-    padding-right: 8px;
+    padding-left: 1vh;
+    padding-right: 1vh;
     font-size: 2vh;
 }
 
 .s2,.s6{
     background-color: #4db89d;
     border-radius: 25px;
-    padding-left: 8px;
-    padding-right: 8px;
+    padding-left: 1vh;
+    padding-right: 1vh;
     font-size: 2vh;
 }
 
 .s3,.s7{
     background-color: #e5bd2b;
     border-radius: 25px;
-    padding-left: 8px;
-    padding-right: 8px;
+    padding-left: 1vh;
+    padding-right: 1vh;
     font-size: 2vh;
 }
 
 .s4,.s8{
     background-color: #e97877;
     border-radius: 25px;
-    padding-left: 8px;
-    padding-right: 8px;
+    padding-left: 1vh;
+    padding-right: 1vh;
     font-size: 2vh;
 }
 
